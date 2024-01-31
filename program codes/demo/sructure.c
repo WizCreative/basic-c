@@ -12,4 +12,5 @@ int main()// main a reserved function name(identifier)
     b=a;//value of a=1 transferred to b, now b=1 too
     printf("%d",b);//"%d" for decimal type output when run
     //and b is printed
+    return 0;
 }
