@@ -1,7 +1,8 @@
 #include <stdio.h> //#include is a pre-processor director and stdio.h is aheader file
 //add comments like this
 /*or
-like this */
+like 
+this */
 #define pi 3.14
 // define for fixed values such as pi
 int a=1; //global variable outside function
