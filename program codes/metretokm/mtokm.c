@@ -7,4 +7,5 @@ int main()
     printf("Enter distance in metre:");
     scanf("%f",&km);
     printf("Distance in metre = %fm",m);
+    return 0;
 }
