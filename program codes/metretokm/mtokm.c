@@ -1,5 +1,5 @@
 #include <stdio.h>
-// program to change km to m
+// program to change km to m conversion
 int main()
 {
     float km,m;
