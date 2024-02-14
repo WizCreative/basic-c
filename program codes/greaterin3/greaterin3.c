@@ -21,7 +21,7 @@ int main()
     }
     else
     {
-       printf("Some numbers are equal");
+       printf("Some numbers given are equal");
     }
     
 }
